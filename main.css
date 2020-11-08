@@ -1,0 +1,57 @@
+body
+{
+	background-color: gray;
+	color: seashell;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+h1
+{
+	font-size: 30px;
+	font-weight: 200;
+	color: snow;
+	margin: 20px;
+}
+
+.footballers
+{
+	text-align: center;
+}
+
+.footballers img
+{
+	width: 100%;
+	height: auto;
+}
+
+.footballers p
+{
+	margin-bottom: 30px;
+}
+
+.footballers figcaption
+{
+	margin-top: 8px;
+}
+
+/*
+.navbar-nav li:hover>.dropdown-menu
+{
+	display: block;
+}
+*/
+
+.navbar
+{
+	min-height: 57px;
+}
+
+.bg-jumpers
+{
+	background-color: #91a33b !important;
+}
+
+
+
+
